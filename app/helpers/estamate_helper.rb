@@ -1,0 +1,2 @@
+module EstamateHelper
+end

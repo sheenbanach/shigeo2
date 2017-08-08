@@ -1,0 +1,65 @@
+// Place all the styles related to the estamate controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+/* CSS Document */
+
+body{
+	margin:0;
+	text-align:center;
+	background: url(../image/back/GUM01_PA01047.jpg) repeat;
+	padding: 0;
+}
+
+img{
+	border:0;
+}
+
+
+
+/* ãƒ˜ãƒƒãƒ€ãƒ¼ */
+
+.head{
+	width:780px;
+	height:60px;
+	margin:0 auto 0 auto;
+	padding:0;
+	background-color:#FFFFFF;
+	border-left:1px solid #AAAAAA;
+	border-right:1px solid #AAAAAA;
+	border-bottom:1px solid #333333;
+}
+/* ãƒ˜ãƒƒãƒ€ãƒ¼ãƒ¡ãƒ‹ãƒ¥ãƒ¼ï¼ˆéƒ¨å±‹ã‚’å€Ÿã‚Šã‚‹ï¼‰ */
+.head_right #hd_menu1 a{
+	background:url("menu_01.png");
+}
+
+.head_right #hd_menu1 a:hover{
+	background-position:0 -25px;
+}
+
+/* ãƒ˜ãƒƒãƒ€ãƒ¼ãƒ¡ãƒ‹ãƒ¥ãƒ¼ï¼ˆä½ã¾ã„ã‚’è²·ã†ï¼‰ */
+.head_right #hd_menu2 a{
+	background:url(../image/menu/hd_menu_02.png);
+}
+
+.head_right #hd_menu2 a:hover{
+	background-position:0 -25px;
+}
+
+/* ãƒ˜ãƒƒãƒ€ãƒ¼ãƒ¡ãƒ‹ãƒ¥ãƒ¼ï¼ˆä½ã¾ã„ã‚’å»ºã¦ã‚‹ï¼‰ */
+.head_right #hd_menu3 a{
+	background:url(../image/menu/hd_menu_03.png);
+}
+
+.head_right #hd_menu3 a:hover{
+	background-position:0 -25px;
+}
+
+/* ãƒ˜ãƒƒãƒ€ãƒ¼ãƒ¡ãƒ‹ãƒ¥ãƒ¼ï¼ˆã‚¢ãƒ‘ãƒ¼ãƒˆçµŒå–¶ï¼‰ */
+.head_right #hd_menu4 a{
+	background:url(../image/menu/hd_menu_04.png);
+}
+
+.head_right #hd_menu4 a:hover{
+	background-position:0 -25px;
+}
