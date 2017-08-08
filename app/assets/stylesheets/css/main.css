@@ -3,7 +3,7 @@
 body{
 	margin:0;
 	text-align:center;
-	background: url(../image/back/GUM01_PA01047.jpg) repeat;
+	background-image: url("/image/back/GUM01_PA01047.jpg") repeat;
 	padding: 0;
 }
 
@@ -63,7 +63,7 @@ h1 a{
 	display:block;
 	text-indent:-9999px;
 	text-decoration:none;
-	background: url(../image/title/main_title.png) no-repeat;
+	background-image: url("/image/title/main_title.png") no-repeat;
 }
 
 h2{
@@ -104,7 +104,7 @@ h2{
 
 /* ãƒ˜ãƒƒãƒ€ãƒ¼ãƒ¡ãƒ‹ãƒ¥ãƒ¼ï¼ˆéƒ¨å±‹ã‚’å€Ÿã‚Šã‚‹ï¼‰ */
 .head_right #hd_menu1 a{
-	background:url(../image/menu/hd_menu_01.png);
+	background-image:url("/image/menu/hd_menu_01.png");
 }
 
 .head_right #hd_menu1 a:hover{
@@ -113,7 +113,7 @@ h2{
 
 /* ãƒ˜ãƒƒãƒ€ãƒ¼ãƒ¡ãƒ‹ãƒ¥ãƒ¼ï¼ˆä½ã¾ã„ã‚’è²·ã†ï¼‰ */
 .head_right #hd_menu2 a{
-	background:url(../image/menu/hd_menu_02.png);
+	background-image:url("/image/menu/hd_menu_02.png");
 }
 
 .head_right #hd_menu2 a:hover{
@@ -122,7 +122,7 @@ h2{
 
 /* ãƒ˜ãƒƒãƒ€ãƒ¼ãƒ¡ãƒ‹ãƒ¥ãƒ¼ï¼ˆä½ã¾ã„ã‚’å»ºã¦ã‚‹ï¼‰ */
 .head_right #hd_menu3 a{
-	background:url(../image/menu/hd_menu_03.png);
+	background-image:url();
 }
 
 .head_right #hd_menu3 a:hover{
@@ -131,7 +131,7 @@ h2{
 
 /* ãƒ˜ãƒƒãƒ€ãƒ¼ãƒ¡ãƒ‹ãƒ¥ãƒ¼ï¼ˆã‚¢ãƒ‘ãƒ¼ãƒˆçµŒå–¶ï¼‰ */
 .head_right #hd_menu4 a{
-	background:url(../image/menu/hd_menu_04.png);
+	background-image:url("/image/menu/hd_menu_04.png");
 }
 
 .head_right #hd_menu4 a:hover{
@@ -189,7 +189,7 @@ h2{
 
 /* ãƒ¡ã‚¤ãƒ³ãƒ¡ãƒ‹ãƒ¥ãƒ¼ï¼ˆãƒ›ãƒ¼ãƒ ã«æˆ»ã‚‹ï¼‰ */
 .menu #menu1 a{
-	background:url(../image/menu/menu_01.png);
+	background-image:url("/image/menu/menu_01.png");
 	width:80px;
 }
 
@@ -199,7 +199,7 @@ h2{
 
 /* ãƒ¡ã‚¤ãƒ³ãƒ¡ãƒ‹ãƒ¥ãƒ¼ï¼ˆãƒªãƒŽãƒ™ãƒ¼ã‚·ãƒ§ãƒ³ï¼‰ */
 .menu #menu2 a{
-	background:url(../image/menu/menu_02.png);
+	background-image:url("/image/menu/menu_02.png");
 	width:125px;
 }
 
@@ -209,7 +209,7 @@ h2{
 
 /* ãƒ¡ã‚¤ãƒ³ãƒ¡ãƒ‹ãƒ¥ãƒ¼ï¼ˆä¼šç¤¾æ¦‚è¦ï¼‰ */
 .menu #menu3 a{
-	background:url(../image/menu/menu_03.png);
+	background-image:url("/image/menu/menu_03.png");
 	width:90px;
 }
 
@@ -219,7 +219,7 @@ h2{
 
 /* ãƒ¡ã‚¤ãƒ³ãƒ¡ãƒ‹ãƒ¥ãƒ¼ï¼ˆäº‹ä¾‹ç´¹ä»‹ï¼‰ */
 .menu #menu4 a{
-	background:url(../image/menu/menu_04.png);
+	background-image:url("/image/menu/menu_04.png");
 	width:90px;
 }
 
@@ -229,7 +229,7 @@ h2{
 
 /* ãƒ¡ã‚¤ãƒ³ãƒ¡ãƒ‹ãƒ¥ãƒ¼ï¼ˆãƒ›ãƒ¼ãƒ ã‚¯ãƒªãƒ‹ãƒƒã‚¯ã®ä½ã¾ã„ï¼‰ */
 .menu #menu5 a{
-	background:url(../image/menu/menu_05.png);
+	background-image:url("/image/menu/menu_05.png");
 	width:185px;
 }
 
@@ -239,7 +239,7 @@ h2{
 
 /* ãƒ¡ã‚¤ãƒ³ãƒ¡ãƒ‹ãƒ¥ãƒ¼ï¼ˆãŠè¦‹ç©ã‚‚ã‚Šï¼‰ */
 .menu #menu6 a{
-	background:url(../image/menu/menu_06.png);
+	background-image:url("/image/menu/menu_06.png");
 	width:100px;
 }
 
@@ -249,7 +249,7 @@ h2{
 
 /* ãƒ¡ã‚¤ãƒ³ãƒ¡ãƒ‹ãƒ¥ãƒ¼ï¼ˆãŠå•ã„åˆã‚ã›ï¼‰ */
 .menu #menu7 a{
-	background:url(../image/menu/menu_07.png);
+	background-image:url("/image/menu/menu_07.png");
 	width:110px;
 }
 

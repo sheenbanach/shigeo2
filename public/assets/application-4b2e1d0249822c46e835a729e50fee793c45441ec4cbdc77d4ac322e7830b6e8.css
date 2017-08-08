@@ -4,7 +4,7 @@
 body{
 	margin:0;
 	text-align:center;
-	background: url(../image/back/GUM01_PA01047.jpg) repeat;
+	background-image: url(../image/back/GUM01_PA01047.jpg) repeat;
 	padding: 0;
 }
 
@@ -64,7 +64,7 @@ h1 a{
 	display:block;
 	text-indent:-9999px;
 	text-decoration:none;
-	background: url(../image/title/main_title.png) no-repeat;
+	background-image: url(../image/title/main_title.png) no-repeat;
 }
 
 h2{
@@ -105,7 +105,7 @@ h2{
 
 /* ãƒ˜ãƒƒãƒ€ãƒ¼ãƒ¡ãƒ‹ãƒ¥ãƒ¼ï¼ˆéƒ¨å±‹ã‚’å€Ÿã‚Šã‚‹ï¼‰ */
 .head_right #hd_menu1 a{
-	background:url(../image/menu/hd_menu_01.png);
+	background-image:url(../image/menu/hd_menu_01.png);
 }
 
 .head_right #hd_menu1 a:hover{
@@ -114,7 +114,7 @@ h2{
 
 /* ãƒ˜ãƒƒãƒ€ãƒ¼ãƒ¡ãƒ‹ãƒ¥ãƒ¼ï¼ˆä½ã¾ã„ã‚’è²·ã†ï¼‰ */
 .head_right #hd_menu2 a{
-	background:url(../image/menu/hd_menu_02.png);
+	background-image:url(../image/menu/hd_menu_02.png);
 }
 
 .head_right #hd_menu2 a:hover{
@@ -123,7 +123,7 @@ h2{
 
 /* ãƒ˜ãƒƒãƒ€ãƒ¼ãƒ¡ãƒ‹ãƒ¥ãƒ¼ï¼ˆä½ã¾ã„ã‚’å»ºã¦ã‚‹ï¼‰ */
 .head_right #hd_menu3 a{
-	background:url(../image/menu/hd_menu_03.png);
+	background-image:url(../image/menu/hd_menu_03.png);
 }
 
 .head_right #hd_menu3 a:hover{
@@ -132,7 +132,7 @@ h2{
 
 /* ãƒ˜ãƒƒãƒ€ãƒ¼ãƒ¡ãƒ‹ãƒ¥ãƒ¼ï¼ˆã‚¢ãƒ‘ãƒ¼ãƒˆçµŒå–¶ï¼‰ */
 .head_right #hd_menu4 a{
-	background:url(../image/menu/hd_menu_04.png);
+	background-image:url(../image/menu/hd_menu_04.png);
 }
 
 .head_right #hd_menu4 a:hover{
@@ -190,7 +190,7 @@ h2{
 
 /* ãƒ¡ã‚¤ãƒ³ãƒ¡ãƒ‹ãƒ¥ãƒ¼ï¼ˆãƒ›ãƒ¼ãƒ ã«æˆ»ã‚‹ï¼‰ */
 .menu #menu1 a{
-	background:url(../image/menu/menu_01.png);
+	background-image:url(../image/menu/menu_01.png);
 	width:80px;
 }
 
@@ -200,7 +200,7 @@ h2{
 
 /* ãƒ¡ã‚¤ãƒ³ãƒ¡ãƒ‹ãƒ¥ãƒ¼ï¼ˆãƒªãƒŽãƒ™ãƒ¼ã‚·ãƒ§ãƒ³ï¼‰ */
 .menu #menu2 a{
-	background:url(../image/menu/menu_02.png);
+	background-image:url(../image/menu/menu_02.png);
 	width:125px;
 }
 
@@ -210,7 +210,7 @@ h2{
 
 /* ãƒ¡ã‚¤ãƒ³ãƒ¡ãƒ‹ãƒ¥ãƒ¼ï¼ˆä¼šç¤¾æ¦‚è¦ï¼‰ */
 .menu #menu3 a{
-	background:url(../image/menu/menu_03.png);
+	background-image:url(../image/menu/menu_03.png);
 	width:90px;
 }
 
@@ -220,7 +220,7 @@ h2{
 
 /* ãƒ¡ã‚¤ãƒ³ãƒ¡ãƒ‹ãƒ¥ãƒ¼ï¼ˆäº‹ä¾‹ç´¹ä»‹ï¼‰ */
 .menu #menu4 a{
-	background:url(../image/menu/menu_04.png);
+	background-image:url(../image/menu/menu_04.png);
 	width:90px;
 }
 
@@ -230,7 +230,7 @@ h2{
 
 /* ãƒ¡ã‚¤ãƒ³ãƒ¡ãƒ‹ãƒ¥ãƒ¼ï¼ˆãƒ›ãƒ¼ãƒ ã‚¯ãƒªãƒ‹ãƒƒã‚¯ã®ä½ã¾ã„ï¼‰ */
 .menu #menu5 a{
-	background:url(../image/menu/menu_05.png);
+	background-image:url(../image/menu/menu_05.png);
 	width:185px;
 }
 
@@ -240,7 +240,7 @@ h2{
 
 /* ãƒ¡ã‚¤ãƒ³ãƒ¡ãƒ‹ãƒ¥ãƒ¼ï¼ˆãŠè¦‹ç©ã‚‚ã‚Šï¼‰ */
 .menu #menu6 a{
-	background:url(../image/menu/menu_06.png);
+	background-image:url(../image/menu/menu_06.png);
 	width:100px;
 }
 
@@ -250,7 +250,7 @@ h2{
 
 /* ãƒ¡ã‚¤ãƒ³ãƒ¡ãƒ‹ãƒ¥ãƒ¼ï¼ˆãŠå•ã„åˆã‚ã›ï¼‰ */
 .menu #menu7 a{
-	background:url(../image/menu/menu_07.png);
+	background-image:url(../image/menu/menu_07.png);
 	width:110px;
 }
 
@@ -448,7 +448,7 @@ h2{
 	margin:0;
 	padding:0;
 	float:right;
-	background:url(../image/back/right1_back.png);
+	background-image:url(../image/back/right1_back.png);
 }
 
 h3{
@@ -463,7 +463,7 @@ h3 a{
 	display:block;
 	text-indent:-9999px;
 	text-decoration:none;
-	background: url(../image/photo/re_main.jpg) no-repeat;
+	background-image: url(../image/photo/re_main.jpg) no-repeat;
 }
 
 
@@ -493,7 +493,7 @@ h3 a{
 /* å³ãƒ¡ãƒ‹ãƒ¥ãƒ¼ï¼ˆäº‹ä¾‹ç´¹ä»‹ï¼‰ */
 .right1 #r1_menu1 a{
 	height:140px;
-	background:url(../image/menu/r1_menu_01.png);
+	background-image:url(../image/menu/r1_menu_01.png);
 }
 
 .right1 #r1_menu1 a:hover{
@@ -503,7 +503,7 @@ h3 a{
 /* å³ãƒ¡ãƒ‹ãƒ¥ãƒ¼ï¼ˆç¾å ´ãƒ–ãƒ­ã‚°ï¼‰ */
 .right1 #r1_menu2 a{
 	height:60px;
-	background:url(../image/menu/r1_menu_02.jpg);
+	background-image:url(../image/menu/r1_menu_02.jpg);
 }
 
 .right1 #r1_menu2 a:hover{
@@ -513,7 +513,7 @@ h3 a{
 /* å³ãƒ¡ãƒ‹ãƒ¥ãƒ¼ï¼ˆã‚¹ã‚¿ãƒƒãƒ•ãƒ–ãƒ­ã‚°ï¼‰ */
 .right1 #r1_menu3 a{
 	height:60px;
-	background:url(../image/menu/r1_menu_03.jpg);
+	background-image:url(../image/menu/r1_menu_03.jpg);
 }
 
 .right1 #r1_menu3 a:hover{
@@ -687,7 +687,7 @@ h3 a{
 
 /* å³ãƒ¡ãƒ‹ãƒ¥ãƒ¼ï¼ˆäº‹ä¾‹ç´¹ä»‹ï¼‰ */
 .r2_bnr #r2_menu1 a{
-	background:url(../image/menu/r2_menu_01.png);
+	background-image:url(../image/menu/r2_menu_01.png);
 }
 
 .r2_bnr #r2_menu1 a:hover{
@@ -696,7 +696,7 @@ h3 a{
 
 /* å³ãƒ¡ãƒ‹ãƒ¥ãƒ¼ï¼ˆãŠè¦‹ç©ã‚‚ã‚Šï¼‰ */
 .r2_bnr #r2_menu2 a{
-	background:url(../image/menu/r2_menu_02.png);
+	background-image:url(../image/menu/r2_menu_02.png);
 }
 
 .r2_bnr #r2_menu2 a:hover{
@@ -734,7 +734,7 @@ a:hover{
 body {
   margin: 0;
   text-align: center;
-  background: url(../image/back/GUM01_PA01047.jpg) repeat;
+  background-image: url(../image/back/GUM01_PA01047.jpg) repeat;
   padding: 0;
 }
 
@@ -759,7 +759,7 @@ img {
 /* ãƒ˜ãƒƒãƒ€ãƒ¼ãƒ¡ãƒ‹ãƒ¥ãƒ¼ï¼ˆéƒ¨å±‹ã‚’å€Ÿã‚Šã‚‹ï¼‰ */
 /* line 33, C:/Users/USER/Desktop/shigeo/app/assets/stylesheets/estamate.scss */
 .head_right #hd_menu1 a {
-  background: url("menu_01.png");
+  background-image: url("menu_01.png");
 }
 
 /* line 37, C:/Users/USER/Desktop/shigeo/app/assets/stylesheets/estamate.scss */
@@ -770,7 +770,7 @@ img {
 /* ãƒ˜ãƒƒãƒ€ãƒ¼ãƒ¡ãƒ‹ãƒ¥ãƒ¼ï¼ˆä½ã¾ã„ã‚’è²·ã†ï¼‰ */
 /* line 42, C:/Users/USER/Desktop/shigeo/app/assets/stylesheets/estamate.scss */
 .head_right #hd_menu2 a {
-  background: url(../image/menu/hd_menu_02.png);
+  background-image: url(../image/menu/hd_menu_02.png);
 }
 
 /* line 46, C:/Users/USER/Desktop/shigeo/app/assets/stylesheets/estamate.scss */
@@ -781,7 +781,7 @@ img {
 /* ãƒ˜ãƒƒãƒ€ãƒ¼ãƒ¡ãƒ‹ãƒ¥ãƒ¼ï¼ˆä½ã¾ã„ã‚’å»ºã¦ã‚‹ï¼‰ */
 /* line 51, C:/Users/USER/Desktop/shigeo/app/assets/stylesheets/estamate.scss */
 .head_right #hd_menu3 a {
-  background: url(../image/menu/hd_menu_03.png);
+  background-image: url(../image/menu/hd_menu_03.png);
 }
 
 /* line 55, C:/Users/USER/Desktop/shigeo/app/assets/stylesheets/estamate.scss */
@@ -792,7 +792,7 @@ img {
 /* ãƒ˜ãƒƒãƒ€ãƒ¼ãƒ¡ãƒ‹ãƒ¥ãƒ¼ï¼ˆã‚¢ãƒ‘ãƒ¼ãƒˆçµŒå–¶ï¼‰ */
 /* line 60, C:/Users/USER/Desktop/shigeo/app/assets/stylesheets/estamate.scss */
 .head_right #hd_menu4 a {
-  background: url(../image/menu/hd_menu_04.png);
+  background-image: url(../image/menu/hd_menu_04.png);
 }
 
 /* line 64, C:/Users/USER/Desktop/shigeo/app/assets/stylesheets/estamate.scss */
